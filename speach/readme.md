@@ -1,3 +1,3 @@
 # Speach section
 
-* (Mozilla deepSpeech)[https://github.com/mozilla/DeepSpeech]
+* [Mozilla deepSpeech](https://github.com/mozilla/DeepSpeech)
